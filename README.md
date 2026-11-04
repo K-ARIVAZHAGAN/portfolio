@@ -14,4 +14,5 @@ Typography uses Google Fonts with local system fallbacks. All project graphics a
 
 ## GitHub Pages
 
-A workflow is included to publish `dist` when changes reach `main`. In repository Settings → Pages, choose GitHub Actions as the source.
+Publish the `dist` folder with your preferred static hosting provider. A GitHub Pages workflow is available in the local deliverable, but uploading it requires GitHub workflow permission.
+
